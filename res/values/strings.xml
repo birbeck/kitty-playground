@@ -3,4 +3,11 @@
 
     <string name="app_name">Kitty Playground</string>
 
+    <string name="menu_cat01">Grumpy cat</string>
+    <string name="menu_cat02">Cat style 2</string>
+    <string name="menu_cat03">Cat style 3</string>
+    <string name="menu_cat04">Cat style 4</string>
+    <string name="menu_cat05">Cat style 5</string>
+    <string name="menu_about">About</string>
+
 </resources>
